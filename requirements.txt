@@ -1,0 +1,3 @@
+posix(ish) system
+ollama
+flite
