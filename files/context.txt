@@ -1,0 +1,11 @@
+Below are previous conversations with you for context (I am 'You:' and you are 'Assistant:'):
+You: what is happening on tuesday
+Assistant: On Tuesday, you have a computer science assignment due at midnight and need to make dinner.
+
+You: what did you tell me is happening
+Assistant: On Monday and Tuesday, you have a doctor's appointment scheduled and a computer science assignment due tonight, respectively. You also need to make dinner on both days.
+
+On Wednesday, you have a final history exam at 1 PM and no other tasks mentioned.
+
+You had an English essay due midnight today, Saturday, October 26, 2024.
+
