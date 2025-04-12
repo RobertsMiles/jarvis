@@ -1,0 +1,3 @@
+- [[combinatorics]] is a part of math
+- [[set theory]] is a part of math
+-

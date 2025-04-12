@@ -22,7 +22,7 @@ done
 
 # pass instructions ollama and output to file
 #cat files/instruction.txt temp/date.txt temp/md.txt temp/argument.txt
-cat temp/date.txt temp/md.txt temp/argument.txt | ollama run assistant --keepalive 1m > temp/output.txt
+cat files/instruction.txt temp/date.txt temp/md.txt temp/argument.txt | ollama run llama3.1 --keepalive 1m > temp/output.txt
 
 # print output
 cat temp/output.txt
